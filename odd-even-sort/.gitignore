@@ -1,0 +1,6 @@
+# Object files
+*.o
+
+# Compiled binaries
+odd-even
+odd-even-min
